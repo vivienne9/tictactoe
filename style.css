@@ -114,7 +114,7 @@ color: blue;
    
 }
 
-#startButton{
+/* #startButton{
     background-color: rgb(134, 163, 187);
     height: 30px;
     width: 150px;
@@ -124,7 +124,7 @@ color: blue;
     color:blue;
     display: inline;
     align-self: center;
-}
+} */
 
 #win{
     font-size: 2em;
